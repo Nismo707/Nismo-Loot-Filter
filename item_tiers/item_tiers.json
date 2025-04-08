@@ -9,7 +9,7 @@
 		"label": "Minimum value",
 		"group": "Tier 1",
 		"type": "number",
-		"default": "20000"
+		"default": "20000",
 	},
 	{
 		"macroName": "VALUE_TIER_2_VALUE",
