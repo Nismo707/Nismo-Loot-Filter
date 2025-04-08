@@ -5,35 +5,35 @@
 	"description": "Uses value-based highlighting with default thresholds at 20k, 100k, 1M, and 10M GP.",
 	"inputs": [
 	{
-		"macroName": "VALUE_TIER_1_VALUE",
+		"macroName": "VAR_VALUE_TIER_1_VALUE",
 		"label": "Minimum value",
 		"group": "Tier 1",
 		"type": "number",
 		"default": "20000",
 	},
 	{
-		"macroName": "VALUE_TIER_2_VALUE",
+		"macroName": "VAR_VALUE_TIER_2_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 2",
 		"type": "number",
 		"default": "100000",
 	},
 	{
-		"macroName": "VALUE_TIER_3_VALUE",
+		"macroName": "VAR_VALUE_TIER_3_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 3",
 		"type": "number",
 		"default": "1000000",
 	},
 	{
-		"macroName": "VALUE_TIER_4_VALUE",
+		"macroName": "VAR_VALUE_TIER_4_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 4",
 		"type": "number",
 		"default": "10000000",
 	},
 	{
-        "macroName": "VALUE_TIER_1_CUSTOMSTYLE",
+        "macroName": "VAR_VALUE_TIER_1_CUSTOMSTYLE",
         "label": "Tier 1 customization",
         "group": "Tier 1",
         "type": "style",
@@ -45,7 +45,7 @@
 			"menuTextColor": "#FFFF9600" }
     },
 	{
-        "macroName": "VALUE_TIER_2_CUSTOMSTYLE",
+        "macroName": "VAR_VALUE_TIER_2_CUSTOMSTYLE",
         "label": "Tier 2 customization",
         "group": "Tier 2",
         "type": "style",
@@ -57,7 +57,7 @@
 			"menuTextColor": "#9966b2ff", }
     },
 	{
-        "macroName": "VALUE_TIER_3_CUSTOMSTYLE",
+        "macroName": "VAR_VALUE_TIER_3_CUSTOMSTYLE",
         "label": "Tier 3 customization",
         "group": "Tier 3",
         "type": "style",
@@ -71,7 +71,7 @@
 			"lootBeamColor": "#ff424242", }
     },
 	{
-        "macroName": "VALUE_TIER_4_CUSTOMSTYLE",
+        "macroName": "VAR_VALUE_TIER_4_CUSTOMSTYLE",
         "label": "Tier 4 customization",
         "group": "Tier 4",
         "type": "style",
