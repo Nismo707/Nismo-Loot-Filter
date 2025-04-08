@@ -1,0 +1,29 @@
+// module:item_tiers 
+
+#define VALUE_TIER_1_VALUE
+#define VALUE_TIER_2_VALUE
+#define VALUE_TIER_3_VALUE
+#define VALUE_TIER_4_VALUE
+
+#define VALUE_TIER_1_CUSTOMSTYLE
+#define VALUE_TIER_2_CUSTOMSTYLE
+#define VALUE_TIER_3_CUSTOMSTYLE
+#define VALUE_TIER_4_CUSTOMSTYLE
+
+apply (value:>=VALUE_TIER_1_VALUE) {
+    VALUE_TIER_1_CUSTOMSTYLE 
+}
+
+apply (value:>=VALUE_TIER_2_VALUE) {
+    VALUE_TIER_2_CUSTOMSTYLE 
+}
+
+apply (value:>=VALUE_TIER_3_VALUE) {
+    VALUE_TIER_3_CUSTOMSTYLE 
+}
+
+apply (value:>=VALUE_TIER_4_VALUE) {
+    VALUE_TIER_4_CUSTOMSTYLE 
+}
+
+// endmodule:item_tiers
