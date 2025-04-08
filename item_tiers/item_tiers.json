@@ -9,28 +9,28 @@
 		"label": "Minimum value",
 		"group": "Tier 1",
 		"type": "number",
-		"default": "20000"
+		"default": 20000
 	},
 	{
 		"macroName": "VAR_VALUE_TIER_2_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 2",
 		"type": "number",
-		"default": "100000"
+		"default": 100000
 	},
 	{
 		"macroName": "VAR_VALUE_TIER_3_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 3",
 		"type": "number",
-		"default": "1000000"
+		"default": 1000000
 	},
 	{
 		"macroName": "VAR_VALUE_TIER_4_VALUE",
 		"label": "Minimum Value",
 		"group": "Tier 4",
 		"type": "number",
-		"default": "10000000"
+		"default": 10000000
 	},
 	{
         "macroName": "VAR_VALUE_TIER_1_CUSTOMSTYLE",
