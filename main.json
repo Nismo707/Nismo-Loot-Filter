@@ -1,6 +1,5 @@
 {
 	"name": "Nismo Loot Filter",
 	"description": "A generalized loot filter designed for use with the Loot Filters plugin on RuneLite, compatible with a wide range of OSRS activities and item drops.",
-	"modules": [
-	{ "modulePath": "item_tiers/item_tiers.json" }]
+	"modules": []
 }
