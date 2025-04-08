@@ -1,5 +1,6 @@
 {
-	"name": "Nismo's Loot Filter"
-	"description": "A generalized loot filter designed for use with the Loot Filters plugin on RuneLite, compatible with a wide range of OSRS activities and item drops."
+	"type": "filter",
+	"name": "Nismo's Loot Filter",
+	"description": "A generalized loot filter designed for use with the Loot Filters plugin on RuneLite, compatible with a wide range of OSRS activities and item drops.",
 	"modules": []
 }
