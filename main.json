@@ -5,6 +5,6 @@
 	"modules": [
 	{
 		"modulePath":"item_tiers/item_tiers.json",
-	}
+	},
 	]
 }
