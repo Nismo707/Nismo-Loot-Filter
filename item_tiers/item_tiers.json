@@ -67,9 +67,9 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99f14bbd",
+			"showLootBeam": true,
 			"lootBeamColor": "#ff424242",
-			"borderColor": "#FF000000",
-			"showLootBeam": true }
+			"borderColor": "#FF000000" }
     },
 	{
         "macroName": "VAR_VALUE_TIER_4_CUSTOMSTYLE",
@@ -83,8 +83,8 @@
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
 			"showLootBeam": "true",
-			"lootBeamColor": "#ff000000",
-			"showLootBeam": true
+			"showLootBeam": true,
+			"lootBeamColor": "#ff000000"
 				  }
 	}
 ]
