@@ -41,6 +41,7 @@
         "default": {
 			"backgroundColor": "#9945dc32",
 			"textAccentColor": "#FF000000",
+			"borderColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#FFFF9600" }
     },
@@ -54,6 +55,7 @@
 			"backgroundColor": "#9966b2ff",
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
+			"borderColor": "#FF000000",
 			"menuTextColor": "#9966b2ff" }
     },
 	{
@@ -79,6 +81,7 @@
         "exampleItem": "Soulreaper axe",
         "default": {
 			"backgroundColor": "#99c30000",
+			"borderColor": "#FF000000",
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
