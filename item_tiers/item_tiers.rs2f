@@ -1,29 +1,29 @@
 // module:item_tiers 
 
-#define VAR_VALUE_TIER_1_VALUE
-#define VAR_VALUE_TIER_2_VALUE
-#define VAR_VALUE_TIER_3_VALUE
-#define VAR_VALUE_TIER_4_VALUE
+#define VALUES_T1_VALUE
+#define VALUES_T2_VALUE
+#define VALUES_T3_VALUE
+#define VALUES_T4_VALUE
 
-#define VAR_VALUE_TIER_1_CUSTOMSTYLE
-#define VAR_VALUE_TIER_2_CUSTOMSTYLE
-#define VAR_VALUE_TIER_3_CUSTOMSTYLE
-#define VAR_VALUE_TIER_4_CUSTOMSTYLE
+#define VALUES_T1_STYLE
+#define VALUES_T2_STYLE
+#define VALUES_T3_STYLE
+#define VALUES_T4_STYLE
 
-apply (value:>=VAR_VALUE_TIER_1_VALUE) {
-    VALUE_TIER_1_CUSTOMSTYLE 
+apply (value:>=VALUES_T1_VALUE) {
+    VALUES_T1_STYLE 
 }
 
-apply (value:>=VAR_VALUE_TIER_2_VALUE) {
-    VALUE_TIER_2_CUSTOMSTYLE 
+apply (value:>=VALUES_T2_VALUE) {
+    VALUES_T2_STYLE 
 }
 
-apply (value:>=VAR_VALUE_TIER_3_VALUE) {
-    VALUE_TIER_3_CUSTOMSTYLE 
+apply (value:>=VALUES_T3_VALUE) {
+    VALUES_T3_STYLE 
 }
 
-apply (value:>=VAR_VALUE_TIER_4_VALUE) {
-    VALUE_TIER_4_CUSTOMSTYLE 
+apply (value:>=VALUES_T4_VALUE) {
+    VALUES_T4_STYLE 
 }
 
 // endmodule:item_tiers
