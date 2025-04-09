@@ -9,3 +9,4 @@ meta {
 apply (name:"*") {
     CurrentIcon(); 
 }
+// endmodule:global_settings
