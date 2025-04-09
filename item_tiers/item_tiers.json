@@ -41,7 +41,6 @@
         "default": {
 			"backgroundColor": "#9945dc32",
 			"textAccent": 3,
-			"textAccentColor": "#FF000000",
 			"borderColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#FFFF9600" 
@@ -55,7 +54,7 @@
         "exampleItem": "Spirit Shield",
         "default": {
 			"backgroundColor": "#9966b2ff",
-			"textAccentColor": "#FF000000",
+			"textAccent": 3,
 			"textColor": "#FF000000",
 			"borderColor": "#FF000000",
 			"menuTextColor": "#9966b2ff" 
@@ -69,7 +68,7 @@
         "exampleItem": "Ring of Stone",
         "default": {
 			"backgroundColor": "#99f14bbd",
-			"textAccentColor": "#FF000000",
+			"textAccent": 3,
 			"textColor": "#FF000000",
 			"menuTextColor": "#99f14bbd",
 			"showLootbeam": true,
@@ -86,7 +85,7 @@
         "default": {
 			"backgroundColor": "#99c30000",
 			"borderColor": "#FF000000",
-			"textAccentColor": "#FF000000",
+			"textAccent": 3,
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
 			"showLootbeam": true,
