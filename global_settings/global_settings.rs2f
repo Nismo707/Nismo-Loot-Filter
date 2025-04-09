@@ -1,0 +1,12 @@
+// module:global_settings
+
+meta {
+    name = "Nismo Filter";
+}
+
+#define Item_Icons
+
+apply (name:"*") {
+    Item_Icons
+    CurrentIcon(); 
+}

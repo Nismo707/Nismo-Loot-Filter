@@ -1,0 +1,12 @@
+{
+    "name": "Global Settings",
+    "rs2fPath": "global_settings.rs2f",
+    "inputs": [
+      { 
+          "macroName": "Item_Icons",
+          "label": "Item Icons",
+          "type": "boolean",
+          "default": true
+      }
+    ]
+  }
