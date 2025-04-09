@@ -7,6 +7,6 @@ meta {
 #define Item_Icons
 
 apply (Item_Icons) {
-    CurrentIcon(); 
+    icon = CurrentItem();
 }
 // endmodule:global_settings
