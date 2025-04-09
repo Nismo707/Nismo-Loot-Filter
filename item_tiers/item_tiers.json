@@ -67,7 +67,7 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99f14bbd",
-			"lootBeamColor": "#ff424242"
+			"lootBeamColor": "#ff424242",
 			"borderColor": "#FF000000",
 			"showLootBeam": true,
 			}
