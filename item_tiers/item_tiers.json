@@ -67,8 +67,8 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99f14bbd",
-			"showLootBeam": true,
-			"lootBeamColor": "#ff424242",
+			"showLootbeam": true,
+			"lootbeamColor": "#ff424242",
 			"borderColor": "#FF000000" }
     },
 	{
@@ -82,8 +82,8 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
-			"showLootBeam": true,
-			"lootBeamColor": "#ff000000"
+			"showLootbeam": true,
+			"lootbeamColor": "#ff000000"
 				  }
 	}
 ]
