@@ -1,6 +1,8 @@
 {
     "name": "Global Settings",
     "rs2fPath": "global_settings.rs2f",
+    "subtitle": "Global Styling and Configuration",
+    "description": "Manage Global-Level Settings Including Item Icons and Despawn Intervals",
     "inputs": [
       { 
           "macroName": "Item_Icons",
