@@ -6,7 +6,7 @@
 			"modulePath": "setup_properties/setup.json"
 	},
 	{ 
-		"modulePath": "item_tiers/item_tiers.json" 
+			"modulePath": "item_tiers/item_tiers.json" 
 	}
 
 	]
