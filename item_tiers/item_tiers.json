@@ -82,7 +82,6 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
-			"showLootBeam": "true",
 			"showLootBeam": true,
 			"lootBeamColor": "#ff000000"
 				  }
