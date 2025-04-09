@@ -40,7 +40,7 @@
         "exampleItem": "Dragon Dagger",
         "default": {
 			"backgroundColor": "#9945dc32",
-			"textAccent": 1,
+			"textAccent": 0,
 			"textAccentColor": "#FF000000",
 			"borderColor": "#FF000000",
 			"textColor": "#FF000000",
