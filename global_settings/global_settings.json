@@ -2,7 +2,7 @@
     "name": "Global Settings",
     "rs2fPath": "global_settings.rs2f",
     "subtitle": "Global Styling and Configuration",
-    "description": "Manage Global-Level Settings Including Item Icons and Despawn Intervals",
+    "description": "Manage Global-Level Settings Including Item Icons and Despawn Intervals\n\nDepawn Timers config needs to be disabled for this feature to work.",
     "inputs": [
       { 
           "macroName": "ITEM_ICONS",
@@ -12,7 +12,7 @@
       },
       {
         "macroName": "GLOBAL_DESPAWN_TIMER",
-        "label": "Do not display despawn timers for items costing less than:\n\nMake sure Despawn Option is toggled off through plugin settings for this to work.",
+        "label": "Do not display despawn timers for items costing less than:",
         "type": "number",
         "default": 1000
     },
