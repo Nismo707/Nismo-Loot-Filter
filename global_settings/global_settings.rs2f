@@ -6,6 +6,6 @@ meta {
 
 #define Item_Icons
 
-apply (Item_Icons) {
+apply (name:"*") {
     CurrentIcon(); 
 }
