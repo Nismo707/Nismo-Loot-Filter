@@ -12,6 +12,7 @@ apply (ITEM_ICONS) {
     icon = CurrentItem();
 }
 apply (name:"*") {
+    showDespawn = true,
     GLOBAL_STYLING
 }
 apply (value:<GLOBAL_DESPAWN_TIMER) {
