@@ -10,6 +10,9 @@
 	},
 	{ 
 			"modulePath": "item_tiers/item_tiers.json" 
+	},
+	{
+			"modulePath": "unique_items/unique_items.json"
 	}
 
 	]

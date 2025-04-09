@@ -1,0 +1,12 @@
+// module:unique_items
+
+#define UNIQUE_ITEMS []
+#define UNIQUE_STYLE
+
+
+
+apply (name:UNIQUE_ITEMS) {
+    UNIQUE_STYLE
+}
+
+// endmodule:unique_items
