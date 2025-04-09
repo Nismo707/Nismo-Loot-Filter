@@ -1,6 +1,6 @@
 {{
     "name": "Setup",
     "rs2fPath": "setup.rs2f",
-    "description": "# SETUP\n\On Runelite, click on the cog to edit the plugin.\n\Under the 'general' category, switch font mode from 'runelite' to 'plugin.' Under 'Display settings', turn on 'Menu: deprioritize hidden items.' Under the 'Item Value Rules' category, untick insane, high, medium, and low tier boxes. Optional: turn on 'Highlight notification'",
+    "description": "SETUPOn Runelite, click on the cog to edit the plugin.Under the 'general' category, switch font mode from 'runelite' to 'plugin.' Under 'Display settings', turn on 'Menu: deprioritize hidden items.' Under the 'Item Value Rules' category, untick insane, high, medium, and low tier boxes. Optional: turn on 'Highlight notification'",
     "inputs": []
 }}
