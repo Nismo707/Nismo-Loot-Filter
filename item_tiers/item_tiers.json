@@ -69,8 +69,7 @@
 			"menuTextColor": "#99f14bbd",
 			"lootBeamColor": "#ff424242",
 			"borderColor": "#FF000000",
-			"showLootBeam": true
-			}
+			"showLootBeam": true }
     },
 	{
         "macroName": "VAR_VALUE_TIER_4_CUSTOMSTYLE",
