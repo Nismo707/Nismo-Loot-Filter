@@ -4,9 +4,6 @@
 	"modules": [
 	{
 		"modulePath": "setup/setup.json"
-	},
-	{ 
-		"modulePath": "item_tiers/item_tiers.json"
 	}
 	]
 }
