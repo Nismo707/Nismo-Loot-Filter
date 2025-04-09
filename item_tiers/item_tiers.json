@@ -43,7 +43,8 @@
 			"textAccentColor": "#FF000000",
 			"borderColor": "#FF000000",
 			"textColor": "#FF000000",
-			"menuTextColor": "#FFFF9600" }
+			"menuTextColor": "#FFFF9600" 
+			}
     },
 	{
         "macroName": "VAR_VALUE_TIER_2_CUSTOMSTYLE",
@@ -56,7 +57,8 @@
 			"textAccentColor": "#FF000000",
 			"textColor": "#FF000000",
 			"borderColor": "#FF000000",
-			"menuTextColor": "#9966b2ff" }
+			"menuTextColor": "#9966b2ff" 
+			}
     },
 	{
         "macroName": "VAR_VALUE_TIER_3_CUSTOMSTYLE",
@@ -71,7 +73,8 @@
 			"menuTextColor": "#99f14bbd",
 			"showLootbeam": true,
 			"lootbeamColor": "#ff424242",
-			"borderColor": "#FF000000" }
+			"borderColor": "#FF000000" 
+			}
     },
 	{
         "macroName": "VAR_VALUE_TIER_4_CUSTOMSTYLE",
@@ -87,7 +90,7 @@
 			"menuTextColor": "#99c30000",
 			"showLootbeam": true,
 			"lootbeamColor": "#ff000000"
-				  }
+			}
 	}
 ]
 }
