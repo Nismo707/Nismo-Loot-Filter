@@ -6,7 +6,7 @@
 			"modulePath": "setup_properties/setup.json"
 	},
 	{
-			"modulePath" "global_settings/global.json"
+			"modulePath": "global_settings/global_settings.json"
 	},
 	{ 
 			"modulePath": "item_tiers/item_tiers.json" 
