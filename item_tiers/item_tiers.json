@@ -1,7 +1,7 @@
 {
 	"name": "Item Tiers",
 	"rs2fPath": "item_tiers.rs2f",
-	"subtitle": "Enter the value threshold to apply your loot filter.",
+	"subtitle": "Enter the value thresholds to apply your loot filter.",
 	"description": "Uses value-based highlighting with default thresholds at 20k, 100k, 1M, and 10M GP.",
 	"inputs": [
 	{
