@@ -1,7 +1,7 @@
 {
-	"name": "setup",
+	"name": "Setup",
 	"rs2fPath": "setup.rs2f",
-	"description": "testing",
+	"description": "# Setup",
 	"inputs": []
 }
 	
