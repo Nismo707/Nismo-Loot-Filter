@@ -2,6 +2,6 @@
 	"name": "setup",
 	"rs2fPath": "setup.rs2f",
 	"description": "testing",
-	"inputs": []
+	"inputs": [],
 }
 	
