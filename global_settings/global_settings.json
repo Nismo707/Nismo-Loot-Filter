@@ -12,7 +12,7 @@
       },
       {
         "macroName": "GLOBAL_DESPAWN_TIMER",
-        "label": "Do not display despawn timers for items costing less than:",
+        "label": "Do not display despawn timers for items costing less than:\n\nMake sure Despawn Option is toggled off through plugin settings for this to work.",
         "type": "number",
         "default": 1000
     },
