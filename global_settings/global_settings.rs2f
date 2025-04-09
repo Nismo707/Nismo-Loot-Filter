@@ -4,10 +4,18 @@ meta {
     name = "Nismo Filter";
 }
 
-#define Item_Icons
+#define ITEM_ICONS
+#define GLOBAL_DESPAWN_TIMER
+#define GLOBAL_STYLING
 
-apply (Item_Icons) {
+apply (ITEM_ICONS) {
     icon = CurrentItem();
+}
+apply (value:<GLOBAL_DESPAWN_TIMER) {
+    showDespawn = false;
+}
+apply (name:"*") {
+    GLOBAL_STYLING
 }
 
 // endmodule:global_settings

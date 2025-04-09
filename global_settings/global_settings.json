@@ -5,10 +5,23 @@
     "description": "Manage Global-Level Settings Including Item Icons and Despawn Intervals",
     "inputs": [
       { 
-          "macroName": "Item_Icons",
-          "label": "Item Icons",
+          "macroName": "ITEM_ICONS",
+          "label": "Enable Item Icons",
           "type": "boolean",
           "default": false
-      }
+      },
+      {
+        "macroName": "GLOBAL_DESPAWN_TIMER",
+        "label": "Do not display despawn timers for items costing less than:",
+        "type": "number",
+        "default": 1000
+    },
+    {
+        "macroName": "GLOBAL_STLING",
+        "label": "Global default customization",
+        "type": "style",
+        "exampleItem": "Coins",
+        "default": {}
+    }
     ]
   }
