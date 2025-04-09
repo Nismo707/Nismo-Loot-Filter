@@ -1,9 +1,11 @@
 {
 	"name": "Setup",
 	"rs2fPath": "setup.rs2f",
-	"description": "# Setup\n\ Navigate to Loot Filter Plugin Settings\n\Ensure *Text Accent* is "Use Filter"\n\
-Ensure *Font Mode* is "Plugin"\n\
-Ensure "Item Value Rules" is set to "After Filter"",
+	"description": "# Setup\n\n
+	Navigate to Loot Filter Plugin Settings\n\n
+	Ensure *Text Accent* is *Use Filter*\n\n
+	Ensure *Font Mode* is *Plugin*\n\n
+	Ensure *Item Value Rules* is set to *After Filter*",
 	"inputs": []
 }
 	
