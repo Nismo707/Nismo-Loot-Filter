@@ -83,7 +83,8 @@
 			"textColor": "#FF000000",
 			"menuTextColor": "#99c30000",
 			"showLootBeam": "true",
-			"lootBeamColor": "#ff000000"
+			"lootBeamColor": "#ff000000",
+			"showLootBeam": true
 				  }
 	}
 ]
