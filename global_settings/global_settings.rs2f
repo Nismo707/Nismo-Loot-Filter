@@ -9,4 +9,5 @@ meta {
 apply (Item_Icons) {
     icon = CurrentItem();
 }
+
 // endmodule:global_settings
