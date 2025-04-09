@@ -11,11 +11,10 @@ meta {
 apply (ITEM_ICONS) {
     icon = CurrentItem();
 }
-apply (value:<GLOBAL_DESPAWN_TIMER) {
-    showDespawn = false;
-}
 apply (name:"*") {
     GLOBAL_STYLING
 }
-
+apply (value:<GLOBAL_DESPAWN_TIMER) {
+    showDespawn = false;
+}
 // endmodule:global_settings
